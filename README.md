@@ -25,6 +25,7 @@
 This is the Saudi Arabia Used Cars data retreived from syarah.com's website. syarah.com is a website which connects seller and potential buyers of the used cars in Saudi Arabia. The website has various car types to sell from diffrent regions across Saudi Arabia.
 
 syarah.com let seller's used car owners to decide their own used car's price. For some sellers, it might be a bit confusing to set a price since not every seller understand the second-hand of used cars market. It can be set too expensive/too cheap. There are lots of factors that determine the used car's price.
+
 **Problem Statement**
 
 One of the challenge for marketplace website like syarah.com is to attract buyers and sellers transact within the website. In order to do that, they have to make the platform more consumer-friendly by adding features and recommendations.
